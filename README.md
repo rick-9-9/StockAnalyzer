@@ -1,4 +1,4 @@
-# FinanceAdvisor
+# StockAnalyzer
 
 Disclaimer – No Financial Advice
 
