@@ -21,8 +21,11 @@ The developer assumes no responsibility or liability for:
     4)Errors arising from third-party data sources (e.g. Yahoo Finance or other APIs)
 
 By using this software, you acknowledge and agree that:
+
     1)You are solely responsible for your investment decisions
+
     2)You should conduct your own research and consult a qualified financial professional before making any investment
+
     3)The developer shall not be held liable under any circumstances for any outcomes resulting from the use of this project
 
 Use this software at your own risk.
